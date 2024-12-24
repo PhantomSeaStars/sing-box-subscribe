@@ -207,12 +207,6 @@
           "keywords":[
             "🇺🇸"
           ]
-        },
-        {
-          "action":"exclude",
-          "keywords":[
-            "🔧"
-          ]
         }
       ]
     },
@@ -227,12 +221,6 @@
           "action":"include",
           "keywords":[
             "🇺🇸"
-          ]
-        },
-        {
-          "action":"exclude",
-          "keywords":[
-            "🔧"
           ]
         }
       ]
